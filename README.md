@@ -1,4 +1,4 @@
-![Hello, World](https://github.com/HoracioChavez/HoracioChavez/blob/master/hello_world.jpeg?raw=true)
+![Hello, World](https://user-images.githubusercontent.com/3926939/217637022-6f06d15f-466c-432d-a6a6-736353caa150.jpeg)
 
 <!--
 **HoracioChavez/HoracioChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
