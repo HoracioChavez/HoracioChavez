@@ -1,4 +1,4 @@
-![Hello, World](https://user-images.githubusercontent.com/3926939/217637022-6f06d15f-466c-432d-a6a6-736353caa150.jpeg)
+![[Hello, World](https://user-images.githubusercontent.com/3926939/217637022-6f06d15f-466c-432d-a6a6-736353caa150.jpeg)](https://github.com/HoracioChavez/HoracioChavez/blob/master/tbsditeg.jpg?raw=true)
 
 # Hey, I'm Horacio 👋
 
@@ -15,3 +15,6 @@ I design agent-driven operating systems for my company. Agents are involved in s
 🛠️ **Stack:** Ruby on Rails · PostgreSQL · Hotwire · Turbo · Stimulus · TailwindCSS
 
 🎯 **What I optimize for:** Fewer people, more leverage. Reliable products, not demos. Software where "it just works" is the whole point.
+
+
+> *Build something people depend on.*
