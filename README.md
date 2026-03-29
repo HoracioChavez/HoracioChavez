@@ -15,10 +15,3 @@ I design agent-driven operating systems for my company. Agents are involved in s
 🛠️ **Stack:** Ruby on Rails · PostgreSQL · Hotwire · Turbo · Stimulus · TailwindCSS
 
 🎯 **What I optimize for:** Fewer people, more leverage. Reliable products, not demos. Software where "it just works" is the whole point.
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-horacionotes-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/horacionotes)
-[![X](https://img.shields.io/badge/X-@horacionotes-000000?style=flat&logo=x&logoColor=white)](https://x.com/horacionotes)
-[![Substack](https://img.shields.io/badge/Substack-Horacio_Notes-FF6719?style=flat&logo=substack&logoColor=white)](https://horaciochavez.substack.com)
-[![Web](https://img.shields.io/badge/horacionotes.com-111111?style=flat&logo=safari&logoColor=white)](https://horacionotes.com)
