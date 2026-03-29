@@ -1,16 +1,24 @@
 ![Hello, World](https://user-images.githubusercontent.com/3926939/217637022-6f06d15f-466c-432d-a6a6-736353caa150.jpeg)
 
-<!--
-**HoracioChavez/HoracioChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Horacio 👋
 
-Here are some ideas to get you started:
+I used to build buildings. Now I build software. The obsession is the same — making complex systems feel invisible to the person experiencing them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏗️ Architect by training. Developer for 15+ years. Founder of // Código Semilla.
+
+We build enterprise software for major hospitality and entertainment groups — reservations, payments, CRM, HR, sales, and the dozens of systems that need to work when thousands of guests show up every day expecting something great.
+
+🤖 **I don't just use AI to code faster.**
+
+I design agent-driven operating systems for my company. Agents are involved in scoping, design decisions, QA, and delivery. Humans and agents working as one team. Not a slide deck — just how we work every day.
+
+🛠️ **Stack:** Ruby on Rails · PostgreSQL · Hotwire · Turbo · Stimulus · TailwindCSS
+
+🎯 **What I optimize for:** Fewer people, more leverage. Reliable products, not demos. Software where "it just works" is the whole point.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-horacionotes-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/horacionotes)
+[![X](https://img.shields.io/badge/X-@horacionotes-000000?style=flat&logo=x&logoColor=white)](https://x.com/horacionotes)
+[![Substack](https://img.shields.io/badge/Substack-Horacio_Notes-FF6719?style=flat&logo=substack&logoColor=white)](https://horaciochavez.substack.com)
+[![Web](https://img.shields.io/badge/horacionotes.com-111111?style=flat&logo=safari&logoColor=white)](https://horacionotes.com)
